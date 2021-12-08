@@ -13,3 +13,13 @@ https://www.youtube.com/watch?v=f2EfGComRKM
 ## Day 3 - 06/12/2021 - Mon
 ### Intersection of two arrays
 Use std::map, difficulty: pointer for arrays
+
+## Day 4 - 07/12/2021 -Tu 
+### Two sum
+
+
+## Day 5 - 08/12/2021 - Wed
+### Reverse only alphabetical
+Approach1: use a stack to store the letters. In another loop, pop them to create the string with letters reversed.
+Approach2: use a backward pointer, update the pointer when encounter a letter. Use the character of the backward pointer when loop through the input and we encounter a letter.
+

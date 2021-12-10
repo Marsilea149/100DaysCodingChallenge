@@ -1,0 +1,2 @@
+# Markdown preview
+ To switch between views, press `Ctrl+Shift+V` in the editor. You can view the preview side-by-side (`Ctrl+K V`) with the file you are editing and see changes reflected in real-time as you edit.

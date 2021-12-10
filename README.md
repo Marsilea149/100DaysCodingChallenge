@@ -19,7 +19,13 @@ Use std::map, difficulty: pointer for arrays
 
 
 ## Day 5 - 08/12/2021 - Wed
-### Reverse only alphabetical
+### Reverse only alphabetical - LeetCode 917 (Easy)
 Approach1: use a stack to store the letters. In another loop, pop them to create the string with letters reversed.
 Approach2: use a backward pointer, update the pointer when encounter a letter. Use the character of the backward pointer when loop through the input and we encounter a letter.
 
+## Day 6 - 09/12/2021 - Thu
+### Linked List Cycle - LeetCode 141 (Easy)
+
+## Day 7 - 10/12/2021 - Fri
+### Stack vs Heap
+See [PointersAndDynamicMemory.md](https://www.example.com)
